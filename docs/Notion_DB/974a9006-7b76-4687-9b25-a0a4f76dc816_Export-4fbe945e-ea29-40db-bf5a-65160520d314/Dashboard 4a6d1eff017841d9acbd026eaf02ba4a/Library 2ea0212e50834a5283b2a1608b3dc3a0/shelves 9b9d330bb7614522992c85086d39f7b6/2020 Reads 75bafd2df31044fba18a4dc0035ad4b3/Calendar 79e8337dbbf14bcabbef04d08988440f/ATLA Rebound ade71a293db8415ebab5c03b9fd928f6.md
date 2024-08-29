@@ -1,4 +1,0 @@
-# ATLA: Rebound
-
-Date: April 28, 2020
-Status: FINISHED
