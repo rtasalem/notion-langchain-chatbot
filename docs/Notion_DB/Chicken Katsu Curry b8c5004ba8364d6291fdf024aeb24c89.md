@@ -26,7 +26,7 @@ Description: Modified chicken katsu curry recipe, loosely based on Joshua Weissm
 
 ## Instructions
 
-**Chicken**
+### Chicken
 
 1. Tenderise chicken breast until even in thickness.
 2. Season with salt and pepper and miso paste.
@@ -35,7 +35,7 @@ Description: Modified chicken katsu curry recipe, loosely based on Joshua Weissm
 5. Fry the chicken on each for 3-5 minutes of until golden brown and cooked through.
 6. Drain and set aside to rest.
 
-**Sauce**
+### Sauce
 
 1. In a pan add oil, chopped onions and carrots. Cook until the onions begin to caramelise. 
 2. Add minced garlic and ginger. Allow to sizzle for 30 seconds.
